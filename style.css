@@ -13,10 +13,14 @@
 q{
     font-weight: bolder;
     font-style: italic;
+    font-size: 25px;
+    float: right;
 }
 pre{
     font-style: italic;
     font-weight: bold;
+    font-size: 15px;
+    float: right;
 }
 h2{
     font-family:sans-serif;
