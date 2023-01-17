@@ -53,6 +53,7 @@ h2{
     line-height: 3em;
     overflow: auto;
     padding: 5px;
+    border: 2px solid black;
 }
 
 
