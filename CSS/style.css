@@ -4,6 +4,11 @@
     margin: 0;
 }
 
+.hr{
+    border-bottom: 3px solid black;
+    margin-top: 45px;
+}
+
 .ftnav {
     font-weight: bold;
     color: black;
